@@ -1,4 +1,4 @@
-import { Button, Box, Stack, Typogpraphy, Divider } from '@mui/material';
+import { Button, Box, Stack, Typography, Divider } from '@mui/material';
 import { styled } from '@mui/material/styles';
 
 export const Work03 = () => (
