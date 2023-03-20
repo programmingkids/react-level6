@@ -7,7 +7,7 @@ import { Work05 } from './components/Work05';
 function App() {
   return (
     <div className="App">
-      <Work05 />
+      <Work01 />
     </div>
   );
 }
